@@ -21,10 +21,10 @@ Nope it's not just that. Read on. <br>
 <li> Projects - Tell us what you are working on or just keep it private, your call </li>
 <li> Personal notes or a rant after deleting production tables - This div aint centering </li>
 </ol>
-
-=> Blogs that proves helpful to a large number of people will be promoted
+<br>
+=> Blogs that proves helpful to a large number of people will be promoted <br>
 => Since I am a Java and JavaScript fullstack developer, i'll probably put <br>
 a beginner friendly collection of resources that could take you from zero Java to hero. <br>
 Also resources for the Spring *, and React js <br>
-=> I know all that was crap, i'll think of something useful to build, later.
+=> I know all that was crap, i'll think of something useful to build, later. <br>
 => I don't know whether am busy or lazy all I know is that this project might get completed after AI takes over the world
