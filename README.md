@@ -18,9 +18,8 @@ Nope it's not just that. Read on. <br>
 <ol>
 <li> Personal schedule - A simple weekly timetable will do. You can also share it if you want </li>
 <li> Projects - Tell us what you are working on or just keep it private, your call </li>
-<li> Personal notes or a rant after deleting production database tables😎 - This div aint centering 😢</li>
+<li> Personal notes or a rant after deleting production database tables😎 ->😬 This div aint centering 😢</li>
 </ol>
-<br>
 => Blogs that proves helpful to a large number of people will be promoted <br>
 => Since I am a Java and JavaScript fullstack developer, i'll probably put <br>
 a beginner friendly collection of resources that could take you from zero Java to hero. <br>
