@@ -42,5 +42,8 @@ Also resources for the Spring *, and React js <br>
 </ul>
 
 # Running
-
-$ yarn build
+<ul>
+<li>$ yarn start => This creates a local development server for testing</li>
+<li>$ yarn build => This creates an optimized production build.</li>
+<li>$ yarn serve => This will run the production server locally</li>
+</ul>
