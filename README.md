@@ -19,7 +19,7 @@ Nope it's not just that. Read on. <br>
 <ol>
 <li> Personal schedule - A simple weekly timetable will do. You can also share it if you want </li>
 <li> Projects - Tell us what you are working on or just keep it private, your call </li>
-<li> Personal notes or a rant after deleting production tables - This div aint centering </li>
+<li> Personal notes or a rant after deleting production database tables😎 - This div aint centering 😢</li>
 </ol>
 <br>
 => Blogs that proves helpful to a large number of people will be promoted <br>
@@ -27,4 +27,4 @@ Nope it's not just that. Read on. <br>
 a beginner friendly collection of resources that could take you from zero Java to hero. <br>
 Also resources for the Spring *, and React js <br>
 => I know all that was crap, i'll think of something useful to build, later. <br>
-=> I don't know whether am busy or lazy all I know is that this project might get completed after AI takes over the world
+=> I don't know whether am busy or lazy all I know is that this project might get completed after AI takes over the world😑🙃
