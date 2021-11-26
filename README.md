@@ -37,7 +37,7 @@ Also resources for the Spring *, and React js <br>
 
 `$ git clone https://github.com/vikie1/betterdevs.git`Clone the repository <br>
 `$ cd ./betterdevs `<br>
-`$ yarn add` this is for installing the node modules <br>
+`$ yarn install` this is for installing the node modules <br>
 
 # Running
 `$ yarn start` => This creates a local development server for testing<br>
