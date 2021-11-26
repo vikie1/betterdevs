@@ -25,3 +25,22 @@ Nope it's not just that. Read on. <br>
 a beginner friendly collection of resources that could take you from zero Java to hero. <br>
 Also resources for the Spring *, and React js <br>
 =>Update on progress will be dropping soon
+
+# Requirements
+
+<ul>
+<li>Node</li>
+<li>yarn</li>
+</ul>
+
+# Installation
+
+<ul> 
+<li>Clone the repository</li>
+<li>cd ./betterdevs </li>
+<li>yarn install //this is for getting the node modules </li>
+</ul>
+
+# Running
+
+$ yarn build
