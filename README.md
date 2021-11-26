@@ -24,5 +24,4 @@ Nope it's not just that. Read on. <br>
 => Since I am a Java and JavaScript fullstack developer, i'll probably put <br>
 a beginner friendly collection of resources that could take you from zero Java to hero. <br>
 Also resources for the Spring *, and React js <br>
-=> I know all that was crap, i'll think of something useful to build, later. <br>
-=> I don't know whether am busy or lazy all I know is that this project might get completed after AI takes over the world😑🙃
+=>Update on progress will be dropping soon
