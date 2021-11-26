@@ -5,8 +5,7 @@ It is written in React and the project is still in incubation.
 
 # So what's this
 
-Better devs is a platform where an individual will store links to <br>
-those blogs/articles or even videos that they saw somewhere but have no time to read or have read but would like to revisit later. <br>
+Better devs is a platform where an individual will store links to those blogs/articles or even videos that they saw somewhere but have no time to read or have read but would like to revisit later. <br>
 I am very sure that am not the only one who hates cluttered bookmarks. <br>
 So how about all of them in one place unaffected by browser uninstalls, migrations or just some other crap incident.<br>
 <strong>Actual content is not stored, just links to the contect - call it a pastebin of useful links </strong>
